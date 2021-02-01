@@ -22,13 +22,13 @@ function Widgets() {
 
         <TwitterTimelineEmbed
           sourceType="profile"
-          screenName="cleverqazi"
+          screenName="madhuvanthmedem"
           options={{ height: 400 }}
         />
 
         <TwitterShareButton
-          url={"https://facebook.com/cleverprogrammer"}
-          options={{ text: "#reactjs is awesome", via: "cleverqazi" }}
+          url={"https://www.facebook.com/madhuvanth.naidu"}
+          options={{ text: "#reactjs is awesome", via: "madhuvanth" }}
         />
       </div>
     </div>
